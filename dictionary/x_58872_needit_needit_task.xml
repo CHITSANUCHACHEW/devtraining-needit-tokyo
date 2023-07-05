@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" db_object_id="4749da4297bbed102103b0c6f053af5f" extends="task" label="NeedIt Task" max_length="40" name="x_58872_needit_needit_task" type="collection"/>
+    <element audit="true" db_object_id="4749da4297bbed102103b0c6f053af5f" extends="task" label="NeedIt Task" max_length="40" name="x_58872_needit_needit_task" type="collection">
+        <element attributes="edge_encryption_enabled=true" display="true" label="Dear" max_length="40" name="dear" type="string"/>
+    </element>
 </database>
